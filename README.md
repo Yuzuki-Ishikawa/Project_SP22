@@ -5,7 +5,7 @@ This repository includes codes and discussions for STAT431 and PSYC489 final pro
 
 ## Purpose
 The main purpose of this project is to build widely used machine learning models from scratch.
-<br>For more details, please refer to perceptron_report.pdf and bayesian_report.pdf. 
+<br>For more details, please refer to perceptron_report.pdf and bayesian_report.pptx. 
 
 ## Environment
 Python 3.10 (64-bit)
